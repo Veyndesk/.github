@@ -11,13 +11,13 @@
 
 <p align="center">
   <a href="https://veyndesk.github.io"><img src="https://img.shields.io/badge/Website-veyndesk.github.io-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://github.com/veyndesk/veyndesk/releases/latest"><img src="https://img.shields.io/github/v/release/veyndesk/veyndesk?style=for-the-badge&label=Download&color=3b82f6&logo=windows&logoColor=white" alt="Download"></a>
+  <a href="https://github.com/veyndesk/veyndesk/releases/latest"><img src="https://img.shields.io/github/v/release/veyndesk/veyndesk?style=for-the-badge&label=Download&color=3b82f6&logoColor=white" alt="Download"> <img src="https://img.shields.io/badge/platforms-Windows%20%7C%20macOS%20%7C%20Linux-8b5cf6?style=for-the-badge" alt="Windows | macOS | Linux"></a>
   <a href="https://github.com/veyndesk/veyndesk/blob/main/LICENSE"><img src="https://img.shields.io/github/license/veyndesk/veyndesk?style=for-the-badge&color=22c55e" alt="License"></a>
   <a href="https://github.com/veyndesk/veyndesk/stargazers"><img src="https://img.shields.io/github/stars/veyndesk/veyndesk?style=for-the-badge&color=f59e0b&logo=github" alt="Stars"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/veyndesk/veyndesk/releases/latest"><b>⬇ Download for Windows</b></a> ·
+  <a href="https://github.com/veyndesk/veyndesk/releases/latest"><b>⬇ Download for Windows · macOS · Linux</b></a> ·
   <a href="https://veyndesk.github.io"><b>🌐 Website</b></a> ·
   <a href="https://github.com/veyndesk/veyndesk"><b>💻 Source code</b></a> ·
   <a href="https://github.com/veyndesk/veyndesk/issues"><b>🐞 Report a bug</b></a>
@@ -49,7 +49,7 @@
 
 | Repository | Description |
 |---|---|
-| [**veyndesk**](https://github.com/veyndesk/veyndesk) | The Windows remote desktop app (host + viewer), built-in server and web viewer |
+| [**veyndesk**](https://github.com/veyndesk/veyndesk) | The remote desktop app for Windows, macOS and Linux (host + viewer), built-in server and web viewer |
 | [**veyndesk.github.io**](https://github.com/veyndesk/veyndesk.github.io) | Source of the [veyndesk.github.io](https://veyndesk.github.io) website |
 
 ### 🤝 Contribute
